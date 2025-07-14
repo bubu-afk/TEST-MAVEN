@@ -16,3 +16,6 @@ jobs:
 
       - name: Building the code
         run: mvn clean install
+
+      - name: Checking the artifact
+        run: ls /target
