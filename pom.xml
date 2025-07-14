@@ -14,7 +14,7 @@
   <distributionManagement>
     <repository>
       <id>bubu-afk</id>
-      <url>https://github.com/bubu-afk/TEST-MAVEN.git</url>
+      <url>https://github.com/bubu-afk/TEST-MAVEN</url>
     </repository>
   </distributionManagement>
 </project>
